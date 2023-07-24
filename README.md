@@ -100,6 +100,12 @@ You can update Keywind components in your own child theme. For example, create a
 
 When you're ready to deploy your own theme, run the build command to generate a static production build.
 
+Install pnpm if you do not already have it installed
+
+```bash
+npm install -g pnpm
+```
+
 ```bash
 pnpm install
 pnpm build
